@@ -68,12 +68,3 @@ Basically what you need to do is:
 if an animal status is made DEAD by itself or by hunters, then its associated thread should free all its resources and terminate its running. 
 
 Note: You can do this by letting the thread check its status before running/moving.
-
-## Grading
-~33 main
-~33 hunter
-~33 animal
-
-I may add some tests later for auto grading.. You may need to submit multiple times.
-
-I have a limited github, so it is best you complete the assignment on your computer then submit it from github, if it is possible.. 
